@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa5311a1-a746-4483-9f42-5383e5c9435a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Modules/Quests.Content/Code/AllQuests/EnemyKills/EnemyKillQuestConfigEditor.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Modules/Quests.Content/Code/AllQuests/EnemyKills/EnemyKillQuestConfigEditor.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Modules/Quests/Code/UI/UIQuestWidget.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Modules/Quests/Code/UI/UIQuestWidget.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MainGame/Code/verelll.MainGame.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MainGame/Code/verelll.MainGame.asmdef" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MainGame/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MainGame/Scenes/Main.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Modules/Quests/Code/QuestsService.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Modules/Quests/Code/QuestsService.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Modules/Quests/Code/verelll.Quests.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Modules/Quests/Code/verelll.Quests.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Modules/Quests.Content/Code/AllQuests/EnemyKills/EnemyKillQuest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Modules/Quests.Content/Code/AllQuests/EnemyKills/EnemyKillQuest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Modules/Quests.Content/Code/AllQuests/EnemyKills/EnemyKillQuestConfig.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Modules/Quests.Content/Code/AllQuests/EnemyKills/EnemyKillQuestConfig.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Modules/Quests/Code/Main/BaseQuest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Modules/Quests/Code/Main/BaseQuest.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747037724873</updated>
       <workItem from="1747037728178" duration="17846000" />
-      <workItem from="1747125563237" duration="16632000" />
+      <workItem from="1747125563237" duration="16932000" />
     </task>
     <servers />
   </component>

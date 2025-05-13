@@ -5,8 +5,6 @@ namespace verelll.Quests
 {
     public abstract class BaseQuest
     {
-        public string Id => Config.name;
-        
         public BaseQuestConfig Config { get; }
 
         public QuestState State { get; private set; }
