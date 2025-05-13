@@ -1,0 +1,17 @@
+{
+    "name": "verelll.Enemy",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ecd26fa7c61fa224cac54d565bf7dfa0",
+        "GUID:91c494873d50db845ab16ddb39190ff3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

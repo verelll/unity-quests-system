@@ -1,0 +1,16 @@
+{
+    "name": "verelll.Damage",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ecd26fa7c61fa224cac54d565bf7dfa0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

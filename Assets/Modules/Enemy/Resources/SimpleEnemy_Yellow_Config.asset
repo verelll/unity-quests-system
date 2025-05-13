@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bcdf36e7cca40d0aab2f4d48120dd8d, type: 3}
+  m_Name: SimpleEnemy_Yellow_Config
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: SimpleEnemy_Yellow
+  <Prefab>k__BackingField: {fileID: 1312067352206851462, guid: d671a26ed41bb804eb9f964e1ad03dd2, type: 3}
+  <MaxHealth>k__BackingField: 2

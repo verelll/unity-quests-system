@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 322fdefa40a643e5b063fef6b953e499, type: 3}
+  m_Name: SpecialEnemy_Blue_Config
+  m_EditorClassIdentifier: 
+  <Id>k__BackingField: SpecialEnemy_Blue
+  <Prefab>k__BackingField: {fileID: 5552026377218356712, guid: 3b7e1abaef56573439edcd99c2910804, type: 3}
+  <MaxHealth>k__BackingField: 3
+  <DodgeChance>k__BackingField: 0.5
+  <DodgeDistance>k__BackingField: 0.5

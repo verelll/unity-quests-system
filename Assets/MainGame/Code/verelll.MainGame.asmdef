@@ -1,7 +1,11 @@
 {
     "name": "verelll.MainGame",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:61915f41b77b9804a9f54f85a14d521e",
+        "GUID:7606ae7746560324c8cdec1009cb35b6",
+        "GUID:91c494873d50db845ab16ddb39190ff3"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
