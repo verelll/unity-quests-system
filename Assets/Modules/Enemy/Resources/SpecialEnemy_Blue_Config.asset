@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   <Id>k__BackingField: SpecialEnemy_Blue
   <Prefab>k__BackingField: {fileID: 5552026377218356712, guid: 3b7e1abaef56573439edcd99c2910804, type: 3}
-  <MaxHealth>k__BackingField: 3
+  <MaxHealth>k__BackingField: 1
   <DodgeChance>k__BackingField: 0.5
   <DodgeDistance>k__BackingField: 0.5
